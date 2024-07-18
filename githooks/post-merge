@@ -21,6 +21,7 @@ do
 			echo "Please re-run \`just githooks-install\`."
 			echo "========================================"
 			exit 1
+
 		fi
 	fi
 done
